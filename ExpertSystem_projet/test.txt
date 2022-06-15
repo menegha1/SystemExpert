@@ -1,0 +1,6 @@
+marguerita|Sauce-Tomate,Fromage,Jambon,Jambon Fromage
+fromagere|jambon,Mozzarella,Champignon,Atomique
+reblochon|Chorizo,Champignon,Fromage,Chorizo
+olivier|Jambon,Fromage,Oeuf,ROYAL
+D|A,B,C
+dodo|C,F

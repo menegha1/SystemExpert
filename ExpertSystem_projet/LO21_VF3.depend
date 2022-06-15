@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1609364328 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\afficher_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609364303 c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\fonctions.h
+
+1609364539 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\insert_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609366537 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609367078 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\moteur_inference.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609407409 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\sauvegarde_regle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609365673 source:c:\users\froge\desktop\utbm\tc3\lo21\lo21_vf3\fonction_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3\afficher_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 c:\users\meneg\onedrive\documents\lo21_vf3\fonctions.h
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3\fonction_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3\insert_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3\moteur_inference.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\afficher_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609460940 c:\users\meneg\onedrive\documents\lo21_vf3(2)\fonctions.h
+
+1609533867 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609535459 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\moteur_inference.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609471774 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\insert_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609535339 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\fonction_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1609533695 source:c:\users\meneg\onedrive\documents\lo21_vf3(2)\sauvegarde_regle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1655218886 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\fonction_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction_List.h"
+
+1655218888 c:\users\meneg\onedrive\documents\lo21_vf3(3)\fonctions.h
+
+1655217957 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1655218835 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\moteur_inference.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moteur_inference.h"
+
+1655218834 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\sauvegarde_regle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sauvegarder_regle.h"
+
+1655218883 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\afficher_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"afficher_List.h"
+
+1655218379 source:c:\users\meneg\onedrive\documents\lo21_vf3(3)\insert_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"insert_List.h"
+
+1655218543 c:\users\meneg\onedrive\documents\lo21_vf3(3)\insert_list.h
+	"structure.h"
+
+1655218531 c:\users\meneg\onedrive\documents\lo21_vf3(3)\structure.h
+
+1655218849 c:\users\meneg\onedrive\documents\lo21_vf3(3)\afficher_list.h
+	"structure.h"
+
+1655218850 c:\users\meneg\onedrive\documents\lo21_vf3(3)\fonction_list.h
+	"structure.h"
+
+1655218846 c:\users\meneg\onedrive\documents\lo21_vf3(3)\sauvegarder_regle.h
+	"structure.h"
+
+1655218972 c:\users\meneg\onedrive\documents\lo21_vf3(3)\moteur_inference.h
+	"structure.h"
+
